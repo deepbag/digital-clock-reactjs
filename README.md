@@ -10,5 +10,5 @@
 </div>
 
 <p align="center" margin-top="5px">
-  <img src="https://github.com/deepbag/starmech/blob/master/img/react-resume.png" alt="React Resume">
+  <img src="https://github.com/deepbag/starmech/blob/master/img/clock.png" alt="React Resume">
 </p>
