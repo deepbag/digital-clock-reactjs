@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-clock-reactjs/static/css/main.86577a74.chunk.css",
+    "main.js": "/digital-clock-reactjs/static/js/main.890bb08a.chunk.js",
+    "main.js.map": "/digital-clock-reactjs/static/js/main.890bb08a.chunk.js.map",
+    "runtime-main.js": "/digital-clock-reactjs/static/js/runtime-main.05abe400.js",
+    "runtime-main.js.map": "/digital-clock-reactjs/static/js/runtime-main.05abe400.js.map",
+    "static/js/2.79c74042.chunk.js": "/digital-clock-reactjs/static/js/2.79c74042.chunk.js",
+    "static/js/2.79c74042.chunk.js.map": "/digital-clock-reactjs/static/js/2.79c74042.chunk.js.map",
+    "index.html": "/digital-clock-reactjs/index.html",
+    "precache-manifest.c03aadc086bdfc2f3f33fe9d8a7734fd.js": "/digital-clock-reactjs/precache-manifest.c03aadc086bdfc2f3f33fe9d8a7734fd.js",
+    "service-worker.js": "/digital-clock-reactjs/service-worker.js",
+    "static/css/main.86577a74.chunk.css.map": "/digital-clock-reactjs/static/css/main.86577a74.chunk.css.map",
+    "static/js/2.79c74042.chunk.js.LICENSE.txt": "/digital-clock-reactjs/static/js/2.79c74042.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05abe400.js",
+    "static/js/2.79c74042.chunk.js",
+    "static/css/main.86577a74.chunk.css",
+    "static/js/main.890bb08a.chunk.js"
+  ]
+}
